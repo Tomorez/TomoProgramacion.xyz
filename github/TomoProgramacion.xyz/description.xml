@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proyecto>
+    <titulo>TomoProgramacion.xyz</titulo>
+    <icono>Web</icono>
+    <categorias>
+      <categoria>HTML</categoria>
+      <categoria>PHP</categoria>
+      <categoria>CSS</categoria>
+    </categorias>
+    <descripcion>Pagina web TomoProgramacion.xyz</descripcion>
+    <demo>false</demo>
+    <repositorio>https://github.com/Tomorez/TomoProgramacion.xyz.git</repositorio>
+    <descarga>https://github.com/Tomorez/TomoProgramacion.xyz/archive/master.zip</descarga>
+</proyecto>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <proyecto>
     <titulo>Plantilla web básica</titulo>
+    <icono>Template</icono>
     <categorias>
         <categoria>HTML</categoria>
-	<categoria>CSS</categoria>
+	      <categoria>CSS</categoria>
         <categoria>Javascript</categoria>
         <categoria>JQuery</categoria>
     </categorias>
     <descripcion>Plantilla basica</descripcion>
-    <repositorio>#</repositorio>
+    <demo>true</demo>
+    <repositorio>https://github.com/Tomorez/PlantillaWebB-sica</repositorio>
+    <descarga>https://github.com/Tomorez/PlantillaWebB-sica/archive/master.zip</descarga>
 </proyecto>
