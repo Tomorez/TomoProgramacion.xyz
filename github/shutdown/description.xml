@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proyecto>
+    <titulo>JShutdown</titulo>
+    <categorias>
+        <categoria>Java</categoria>
+    </categorias>
+    <descripcion>Programa cuanto tiempo quieres que este el equipo encendido, mediante una cuenta regresiva que apagara el ordenador cuando llegue a cero.</descripcion>
+    <repositorio>#</repositorio>
+</proyecto>

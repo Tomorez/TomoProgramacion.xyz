@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proyecto>
+    <titulo>Loteria</titulo>
+    <categorias>
+        <categoria>HTML</categoria>
+        <categoria>Javascript</categoria>
+    </categorias>
+    <descripcion>Simulador del sorteo de la loteria</descripcion>
+    <repositorio>#</repositorio>
+</proyecto>

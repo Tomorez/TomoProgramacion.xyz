@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proyecto>
+    <titulo>Plantilla web básica</titulo>
+    <categorias>
+        <categoria>HTML</categoria>
+	<categoria>CSS</categoria>
+        <categoria>Javascript</categoria>
+        <categoria>JQuery</categoria>
+    </categorias>
+    <descripcion>Plantilla basica</descripcion>
+    <repositorio>#</repositorio>
+</proyecto>
